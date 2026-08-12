@@ -189,7 +189,7 @@ I'm currently focusing on improving my understanding of full-stack application d
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NaufalArig/NaufalArig/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/NaufalArig/NaufalArig/blob/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
