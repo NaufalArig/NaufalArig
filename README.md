@@ -200,17 +200,14 @@ I'm currently focusing on improving my understanding of full-stack application d
   <a href="https://github.com/NaufalArig">
     <img src="https://img.shields.io/badge/GitHub-NaufalArig-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/USERNAME_KAMU/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>"Don't Listen To Them."</i>
+  <i>Thanks for visiting my profile! 🚀</i>
 </p>
-
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
